@@ -1,0 +1,125 @@
+.gifs{
+  height: 250px;
+  width: 250px;
+  border: solid;
+  border-width: 2px;
+
+
+
+}
+
+#Gif0{
+
+}
+
+#Gif1{
+  margin-left: 250px;
+}
+#Gif2{
+  margin-left: 500px;
+}
+#Gif3{
+    margin-left: 750px;
+}
+#Gif4{
+  margin-left: 1000px;
+}
+#Gif5{
+  margin-left: 1250px;
+}
+#Gif6{
+  margin-left: 1000px;
+}
+#Gif7{
+  margin-left: 750px;
+}
+#Gif8{
+margin-left: 500px;
+}
+#Gif9{
+margin-left: 250px;
+}
+#Gif10{
+
+}
+
+
+
+#gifsArea0{
+
+  background-color: #4c8492;
+
+
+
+}
+
+#gifsArea1{
+
+
+  background-color: #f7e0a3;
+
+
+}
+
+#gifsArea2{
+
+
+  background-color: #f09c67;
+
+}
+#gifsArea3{
+
+
+background-color: #fffde8;
+
+
+}
+
+#gifsArea4{
+
+
+  background-color: #4c8492;
+
+
+}
+#gifsArea5{
+
+
+  background-color: #f7e0a3;
+
+
+}
+#gifsArea6{
+
+    background-color: #f09c67;
+
+
+}
+#gifsArea7{
+
+  background-color: #fffde8;
+
+}
+#gifsArea8{
+
+    background-color: #4c8492;
+
+
+
+}
+#gifsArea9{
+
+    background-color: #f7e0a3;
+
+
+
+}
+
+
+.gifDesign{
+
+}
+
+body{
+  background-color: #fffde8;
+}
