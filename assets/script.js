@@ -4,7 +4,7 @@
 
 $(document).ready(function(){
 
-var gifURL = "http://api.giphy.com/v1/gifs/search?q=monkey&api_key=6yLe0B2bH4OQyPMpbI43W53Y6qkdQfws&limit=10";
+var gifURL = "https://api.giphy.com/v1/gifs/search?q=monkey&api_key=6yLe0B2bH4OQyPMpbI43W53Y6qkdQfws&limit=10";
 
 var topics = ["dogs", "cats", "monkey", "chimp", "frog", "whale", "dolphin", "sloth"];
 var movie;
@@ -26,7 +26,7 @@ $(document).on("click", function() {
     var animal = $("#animal-input").val().trim();
     var buttonValue = $(this).val();
 
-    var gifURL = "http://api.giphy.com/v1/gifs/search?q=" + buttonValue + "&api_key=6yLe0B2bH4OQyPMpbI43W53Y6qkdQfws&limit=10";
+    var gifURL = "https://api.giphy.com/v1/gifs/search?q=" + buttonValue + "&api_key=6yLe0B2bH4OQyPMpbI43W53Y6qkdQfws&limit=10";
     $.ajax({
       method: "Get",
       url: gifURL,
